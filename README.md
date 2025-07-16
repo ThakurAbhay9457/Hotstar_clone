@@ -1,2 +1,1 @@
-# Hotstar_clone
- 
+#JUST TRIED TO BUILD A HOME PAGE OF HOTSTAR
